@@ -303,7 +303,7 @@ form {
     margin: 40px;
     width: 400px;
     height: 450px;
-    background: url(/images/login_image.png);
+    background: url(login_image.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -610,7 +610,7 @@ span {
 
 .content1::before {
     content: '';
-    background: url(/images/Model.png);
+    background: url(Images/Model.png);
     width: 100%;
     height: 100%;
     position: absolute;
@@ -631,7 +631,7 @@ span {
     background-color: #D470A2;
     overflow: hidden;
     left: 60%;
-    top: 10%;
+    top: -10%;
 }
 
 @keyframes animatedGirl {
@@ -685,7 +685,7 @@ span {
 
 /* Image Slider */
 .slider {
-    width: 100%;
+    width: 1366px;
     height: 100%;
     max-width: 100vw;
     position: relative;
@@ -702,12 +702,8 @@ span {
     transition: 1s;
 }
 
-.item {
-    width: 100vw;
-}
-
 .list img{
-    width: 100%;
+    width: 1400px;
     max-width: 100vw;
     height: 100%;
     object-fit: cover;

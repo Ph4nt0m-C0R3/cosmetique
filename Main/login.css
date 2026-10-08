@@ -61,7 +61,7 @@ form {
     margin: 40px;
     width: 400px;
     height: 450px;
-    background: url(/images/login_image.png);
+    background: url(login_image.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
