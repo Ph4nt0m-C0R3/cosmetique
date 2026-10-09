@@ -4,6 +4,8 @@ A multipage cosmetics storefront built with **HTML, CSS, and JavaScript** during
 
 The project brings several beauty brands into one browsable website and demonstrates page design, navigation, product presentation, and a browser-based shopping cart.
 
+**Development:** Cosmétique was developed collaboratively as a group project. Aung Myo Pyae shared development with his teammates.
+
 ## Screenshots
 
 ![Cosmétique — Frontend Cosmetics Storefront — screenshot 1](docs/screenshots/cosmetique-1.png)
@@ -62,4 +64,4 @@ This project introduced HTML structure, CSS styling, DOM events, page navigation
 
 ## Credits
 
-Created as a Semester I group project, with Aung Myo Pyae as a project contributor. Student IDs and personal demo contact details are omitted from this public copy. Product names and brand imagery belong to their respective owners and are used here for an educational demonstration.
+Created as a Semester I group project, with Aung Myo Pyae sharing development with his teammates. Student IDs and personal demo contact details are omitted from this public copy. Product names and brand imagery belong to their respective owners and are used here for an educational demonstration.
