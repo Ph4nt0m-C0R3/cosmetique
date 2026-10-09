@@ -4,6 +4,12 @@ A multipage cosmetics storefront built with **HTML, CSS, and JavaScript** during
 
 The project brings several beauty brands into one browsable website and demonstrates page design, navigation, product presentation, and a browser-based shopping cart.
 
+## Screenshots
+
+![Cosmétique — Frontend Cosmetics Storefront — screenshot 1](docs/screenshots/cosmetique-1.png)
+
+![Cosmétique — Frontend Cosmetics Storefront — screenshot 2](docs/screenshots/cosmetique-2.png)
+
 ## Features
 
 - Homepage with brand promotions and animated text.
